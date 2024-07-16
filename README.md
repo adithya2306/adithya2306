@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ghostrider-reborn&show_icons=true&theme=transparent)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adithya2306&show_icons=true&theme=transparent)
 
 <!--
-**ghostrider-reborn/ghostrider-reborn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
